@@ -21,6 +21,9 @@ dependencies:
   cupertino_icons: ^0.1.2
   firebase_core: ^0.2.5
   firebase_analytics: ^1.0.4
+  camera: ^0.2.6
+  path_provider: ^0.4.1
+  video_player: ^0.7.2
 
 
 dev_dependencies:
