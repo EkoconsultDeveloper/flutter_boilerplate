@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-
+import 'src/colors.dart';
 void main() => runApp(MyApp());
 
 class MyApp extends StatelessWidget {
