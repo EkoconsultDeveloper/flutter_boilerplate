@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "62525490626",
+    "firebase_url": "https://flutterboilerplate.firebaseio.com",
+    "project_id": "flutterboilerplate",
+    "storage_bucket": "flutterboilerplate.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:62525490626:android:9acaba93feba043b",
+        "android_client_info": {
+          "package_name": "at.ekoconsult.flutterboilerplate"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "62525490626-m4qt9bthkcpv7sa2scjgps388qj7s530.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCA2nm2ioXbNCg1VKgg6IgM9y-fy6MDXwg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
